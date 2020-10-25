@@ -1,9 +1,9 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
+title: "AndragOG"
+subtitle: Prepare for part 2 MRCOG
 image: /img/home-jumbotron.jpg
 blurb:
-    heading: AndragOG
+    heading: andragog.uk
     text: "Welcome to the website for andragOG virtual Part 2 MRCOG courses."
 intro:
     heading: "What we offer"
