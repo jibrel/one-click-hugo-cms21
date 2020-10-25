@@ -1,5 +1,5 @@
 ---
-title: "AndragOG"
+title: "Welcome to the website for andragOG virtual Part 2 MRCOG courses."
 subtitle: Prepare for part 2 MRCOG
 image: /img/home-jumbotron.jpg
 blurb:
